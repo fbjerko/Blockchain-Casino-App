@@ -45,18 +45,6 @@ class BlackjackIndex extends Component {
       pending: false,
       txhash: ""
 
-      /*uCard1: "",
-        uCard2: "",
-        uCard3: "",
-        uCard4: "",
-        uCard5: "",
-        sumUser: "",
-        dCard1: "",
-        dCard2: "",
-        dCard3: "",
-        dCard4: "",
-        dCard5: "",
-        sumDealer: ""*/
     };
   }
 
