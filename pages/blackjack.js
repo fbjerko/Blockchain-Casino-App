@@ -369,7 +369,3 @@ class BlackjackIndex extends Component {
 
 export default BlackjackIndex;
 
-/*
- <Grid.Column>
-                
-              </Grid.Column> */
